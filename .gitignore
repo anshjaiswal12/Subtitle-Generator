@@ -1,0 +1,22 @@
+# Large files / folders
+videos/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temp / logs
+*.tmp
+*.log
+
+# Submission zip (regenerate with package_submission.py)
+subtitle_summarizer_submission.zip

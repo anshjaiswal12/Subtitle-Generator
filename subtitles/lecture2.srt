@@ -1,0 +1,744 @@
+1
+00:00:00,000 --> 00:00:07,000
+I'm here today to talk about thinking for yourself.
+
+2
+00:00:07,000 --> 00:00:12,000
+And I must admit I did use AI to help me think about it.
+
+3
+00:00:12,000 --> 00:00:15,000
+The AI is not lost on me.
+
+4
+00:00:15,000 --> 00:00:19,000
+But the way I did so is not by using AI as an assistant
+
+5
+00:00:19,000 --> 00:00:21,000
+to help me prepare this talk faster.
+
+6
+00:00:21,000 --> 00:00:25,000
+Rather, I use AI as a tool for thought.
+
+7
+00:00:25,000 --> 00:00:29,000
+And by the end of this talk, I will have explained what I mean by that
+
+8
+00:00:29,000 --> 00:00:34,000
+why it's important and give you a glimpse of how it might work.
+
+9
+00:00:34,000 --> 00:00:36,000
+But first I need to set the scene.
+
+10
+00:00:36,000 --> 00:00:40,000
+Let's look at a day in the life of a 21st century knowledge worker.
+
+11
+00:00:40,000 --> 00:00:45,000
+I arrive at my office and look at my inbox full of emails.
+
+12
+00:00:45,000 --> 00:00:49,000
+Let's summarize it.
+
+13
+00:00:49,000 --> 00:00:53,000
+I'm struggling to figure out how to respond here.
+
+14
+00:00:53,000 --> 00:00:56,000
+So let's get AI to write a response.
+
+15
+00:00:56,000 --> 00:01:01,000
+Next, I need to write a report from struck by the blank page problem.
+
+16
+00:01:01,000 --> 00:01:05,000
+I know I'll drop in some resources and get an AI draft.
+
+17
+00:01:05,000 --> 00:01:07,000
+Looks good to me.
+
+18
+00:01:07,000 --> 00:01:10,000
+By the way, the writer's block used to be staring at a blank page.
+
+19
+00:01:10,000 --> 00:01:13,000
+Now it's staring at a page that AI filled out for me
+
+20
+00:01:13,000 --> 00:01:15,000
+and wondering if I agree with it.
+
+21
+00:01:15,000 --> 00:01:19,000
+I've become a professional validator of a robot's opinions.
+
+22
+00:01:19,000 --> 00:01:23,000
+I've got some data to analyze.
+
+23
+00:01:23,000 --> 00:01:27,000
+Maybe AI can analyze this data for me?
+
+24
+00:01:27,000 --> 00:01:29,000
+Probably correct.
+
+25
+00:01:29,000 --> 00:01:32,000
+Okay, I've got to make a deck as well.
+
+26
+00:01:32,000 --> 00:01:34,000
+You know the drill.
+
+27
+00:01:34,000 --> 00:01:38,000
+All right, I was supposed to prototype something as well.
+
+28
+00:01:38,000 --> 00:01:40,000
+Okay, let me vibe code something.
+
+29
+00:01:40,000 --> 00:01:42,000
+All right, all this looks good.
+
+30
+00:01:42,000 --> 00:01:44,000
+Let's go.
+
+31
+00:01:44,000 --> 00:01:47,000
+This isn't a vision of the future.
+
+32
+00:01:47,000 --> 00:01:51,000
+This is a completely plausible, if slightly exaggerated picture of the world
+
+33
+00:01:51,000 --> 00:01:54,000
+of knowledge work today.
+
+34
+00:01:54,000 --> 00:01:57,000
+Welcome to the age of outsourced reason
+
+35
+00:01:57,000 --> 00:02:01,000
+where the knowledge worker no longer engages with the materials of their craft.
+
+36
+00:02:01,000 --> 00:02:03,000
+We've become intellectual tourists.
+
+37
+00:02:03,000 --> 00:02:06,000
+In our own work, we visit ideas.
+
+38
+00:02:06,000 --> 00:02:09,000
+We don't inhabit them.
+
+39
+00:02:09,000 --> 00:02:16,000
+Our relationship to our work is entirely intermediated by AI.
+
+40
+00:02:16,000 --> 00:02:18,000
+Some might say alienated.
+
+41
+00:02:18,000 --> 00:02:20,000
+We've heard that story before.
+
+42
+00:02:20,000 --> 00:02:23,000
+What's wrong with this picture?
+
+43
+00:02:23,000 --> 00:02:27,000
+For one thing, it's only one step removed from this, which is important.
+
+44
+00:02:27,000 --> 00:02:29,000
+But that's a different talk.
+
+45
+00:02:29,000 --> 00:02:39,000
+What I want to focus on today is that using AI in this way can have profound implications on human thought.
+
+46
+00:02:39,000 --> 00:02:41,000
+Consider creativity.
+
+47
+00:02:41,000 --> 00:02:44,000
+On an individual level, we might think that AI is a creativity boost,
+
+48
+00:02:44,000 --> 00:02:47,000
+giving us rapid access to new ideas.
+
+49
+00:02:47,000 --> 00:02:51,000
+But numerous studies have shown that on a collective level,
+
+50
+00:02:51,000 --> 00:02:58,000
+knowledge workers using AI assistance produce a smaller range of ideas than a group working manually.
+
+51
+00:02:58,000 --> 00:03:01,000
+We've created a hive mind,
+
+52
+00:03:01,000 --> 00:03:06,000
+so the hive is really boring and keeps suggesting the same five ideas.
+
+53
+00:03:06,000 --> 00:03:08,000
+Consider critical thinking.
+
+54
+00:03:08,000 --> 00:03:12,000
+We surveyed knowledge workers about their use of AI.
+
+55
+00:03:12,000 --> 00:03:15,000
+They reported that they put less effort into critical thinking,
+
+56
+00:03:15,000 --> 00:03:20,000
+when working with AI, then when working manually.
+
+57
+00:03:20,000 --> 00:03:27,000
+And this fact was greater when they had greater confidence in AI and less confidence in themselves.
+
+58
+00:03:27,000 --> 00:03:30,000
+Consider memory.
+
+59
+00:03:30,000 --> 00:03:35,000
+When people rely on AI to write for them, they remember less of what they wrote.
+
+60
+00:03:35,000 --> 00:03:42,000
+And when they read AI-generated summaries, it's hardly surprising that they remember less than if they'd read the document.
+
+61
+00:03:42,000 --> 00:03:48,000
+And finally, consider a meta-cognition, which is the ability to think about your own thinking process.
+
+62
+00:03:48,000 --> 00:03:55,000
+Working with AI requires significant meta-cognitive reasoning about your task goals, decomposing the task,
+
+63
+00:03:55,000 --> 00:03:59,000
+the applicability of Gen AI, your ability to evaluate the output.
+
+64
+00:03:59,000 --> 00:04:04,000
+These are things which are built into the process of working directly with a material,
+
+65
+00:04:04,000 --> 00:04:09,000
+and which become problematic when that material engagement becomes intermediated.
+
+66
+00:04:09,000 --> 00:04:13,000
+Basically, we've become middle managers for our own thoughts.
+
+67
+00:04:13,000 --> 00:04:15,000
+So what's the score?
+
+68
+00:04:15,000 --> 00:04:17,000
+We have fewer ideas.
+
+69
+00:04:17,000 --> 00:04:19,000
+We think about them less critically.
+
+70
+00:04:19,000 --> 00:04:24,000
+We remember them less well, and we have a harder time doing it.
+
+71
+00:04:24,000 --> 00:04:30,000
+Taken together, we can see that AI assisted workflows can have profound effects on human thinking.
+
+72
+00:04:30,000 --> 00:04:34,000
+And this extends even to seemingly trivial mundane tasks,
+
+73
+00:04:34,000 --> 00:04:40,000
+because these everyday opportunities for exercising our creativity, our critical thinking, and our memory are essential
+
+74
+00:04:40,000 --> 00:04:48,000
+for protecting our cognitive musculature, and allow us to rise to the occasion when an exceptionally complex task comes our way.
+
+75
+00:04:48,000 --> 00:04:54,000
+Studies show that when we don't use our brains, they get worse at brain things.
+
+76
+00:04:54,000 --> 00:04:59,000
+Nobel Prize Committee, please hold your applause.
+
+77
+00:05:00,000 --> 00:05:04,000
+Is this the cost of progress?
+
+78
+00:05:04,000 --> 00:05:07,000
+We solved the problem of having to think.
+
+79
+00:05:07,000 --> 00:05:11,000
+Unfortunately, thinking wasn't actually a problem.
+
+80
+00:05:11,000 --> 00:05:18,000
+It's like we invented a cure for exercise, and then wondered why we're out of breath all the time.
+
+81
+00:05:18,000 --> 00:05:24,000
+Doesn't have to be this way.
+
+82
+00:05:25,000 --> 00:05:30,000
+Beyond AI as an assistant, I believe that AI should be a tool for thought.
+
+83
+00:05:30,000 --> 00:05:33,000
+AI should challenge, not obey.
+
+84
+00:05:33,000 --> 00:05:40,000
+And I believe that right at this moment we are at a critical juncture, where the world if work is poised to be transformed by generative AI,
+
+85
+00:05:40,000 --> 00:05:46,000
+and we must act now to shape and drive that transformation towards humanistic values.
+
+86
+00:05:46,000 --> 00:05:51,000
+Of these two diverging roads, we must take the one less traveled.
+
+87
+00:05:51,000 --> 00:05:56,000
+The job done, a tool for thought helps us better understand the job.
+
+88
+00:05:56,000 --> 00:06:01,000
+Beyond getting it done faster, it helps us get it done better.
+
+89
+00:06:01,000 --> 00:06:07,000
+Beyond getting us to the right answers, a tool for thought helps us ask the right questions.
+
+90
+00:06:07,000 --> 00:06:12,000
+Beyond automating known processes, it helps us explore the unknown.
+
+91
+00:06:12,000 --> 00:06:14,000
+What does this look like?
+
+92
+00:06:14,000 --> 00:06:22,000
+What I'm about to show you is a prototype developed by my colleagues and me at the tools for thought team at Microsoft Research in Cambridge.
+
+93
+00:06:22,000 --> 00:06:26,000
+Now, please bear in mind that this is a live research prototype.
+
+94
+00:06:26,000 --> 00:06:28,000
+It's not a product.
+
+95
+00:06:28,000 --> 00:06:35,000
+And it's just one of a series of explorations that our team is conducting to study how different modes of working with AI can enhance human thought.
+
+96
+00:06:35,000 --> 00:06:39,000
+So let's look at a fictitious example.
+
+97
+00:06:40,000 --> 00:06:46,000
+Clara and her colleagues run a company that sells bottled beverages.
+
+98
+00:06:46,000 --> 00:06:55,000
+They've just had a meeting to discuss a new industry report that seems to have some pretty important findings about consumer preferences for sustainable packaging.
+
+99
+00:06:55,000 --> 00:07:01,000
+Clara's colleagues have asked her to write a proposal arguing for how the company ought to respond.
+
+100
+00:07:01,000 --> 00:07:04,000
+So she really needs to get the grips with this proposal.
+
+101
+00:07:04,000 --> 00:07:07,000
+She really needs to get the grips with this report.
+
+102
+00:07:07,000 --> 00:07:13,000
+Understand its findings and its data and how it fits into her business context.
+
+103
+00:07:13,000 --> 00:07:19,000
+She starts by loading some documents into her workspace.
+
+104
+00:07:19,000 --> 00:07:22,000
+There's the meeting transcript to remind her what was discussed.
+
+105
+00:07:22,000 --> 00:07:25,000
+There's a recent internal report from her own business.
+
+106
+00:07:25,000 --> 00:07:29,000
+And of course, there's the industry report which she opens.
+
+107
+00:07:30,000 --> 00:07:34,000
+She sees an overview of the document along with section by section summaries.
+
+108
+00:07:34,000 --> 00:07:36,000
+Except these aren't really just summaries.
+
+109
+00:07:36,000 --> 00:07:38,000
+We think of them more as lenses.
+
+110
+00:07:38,000 --> 00:07:45,000
+They're customizable micro representations of the text that can emphasize what is most relevant to the task at hand.
+
+111
+00:07:45,000 --> 00:07:49,000
+So in this case, Clara selects the consumer's lens.
+
+112
+00:07:51,000 --> 00:07:53,000
+She can select a section for deeper reading.
+
+113
+00:07:53,000 --> 00:07:55,000
+In this case, the first one.
+
+114
+00:07:56,000 --> 00:08:04,000
+As she reads, she makes notes about her thoughts and highlights excerpts from the document.
+
+115
+00:08:04,000 --> 00:08:10,000
+As she reads, she also sees AI-generated commentary and critiques.
+
+116
+00:08:10,000 --> 00:08:13,000
+We call these provocations.
+
+117
+00:08:13,000 --> 00:08:19,000
+Here's a provocation that raises a potential opportunity which she highlights and annotates.
+
+118
+00:08:20,000 --> 00:08:27,000
+Note how this process is a hybrid of completely manual reading and completely relying on AI to read for you.
+
+119
+00:08:27,000 --> 00:08:32,000
+Clara still reads, but intentionally and strategically.
+
+120
+00:08:32,000 --> 00:08:39,000
+Now, as Clara is working, she's building up an outline of her argument manually in this pane on the right.
+
+121
+00:08:39,000 --> 00:08:46,000
+This outline is lightly structured and allows her to sketch out the flow of her argument at a high level,
+
+122
+00:08:46,000 --> 00:08:50,000
+while still retaining deep connections and being grounded in the source documents,
+
+123
+00:08:50,000 --> 00:08:54,000
+as a result of which we can already generate a draft of the proposal.
+
+124
+00:08:54,000 --> 00:08:59,000
+And Clara can do things here like add a heading to the outline to generate a paragraph.
+
+125
+00:08:59,000 --> 00:09:05,000
+But what I want to draw your attention to here is that while this text is AI-generated,
+
+126
+00:09:05,000 --> 00:09:10,000
+Clara has a completely different relationship to this text than if she just dropped in some documents and said,
+
+127
+00:09:10,000 --> 00:09:16,000
+write me a report, because this text is deeply rooted in a cognitively effortful,
+
+128
+00:09:16,000 --> 00:09:20,000
+but interactionally effortless thought process.
+
+129
+00:09:20,000 --> 00:09:30,000
+It reflects Clara's decisions, Clara's judgments, Clara's unique personal professional expertise.
+
+130
+00:09:30,000 --> 00:09:35,000
+She sees another provocation this time in the outline.
+
+131
+00:09:35,000 --> 00:09:41,000
+In this case, she decides that while the provocation is useful, she does not need to address it.
+
+132
+00:09:41,000 --> 00:09:46,000
+Unlike typical AI suggestions, provocations are not meant to be applicable all the time.
+
+133
+00:09:46,000 --> 00:09:49,000
+They're instead meant to stimulate your thinking about your work,
+
+134
+00:09:49,000 --> 00:09:55,000
+because if you understand your work well enough, deeply enough to make the confident decision,
+
+135
+00:09:55,000 --> 00:10:02,000
+not to accept a piece of feedback, then the feedback process is still working as intended.
+
+136
+00:10:02,000 --> 00:10:09,000
+But we're not done yet. Clara has entirely new ways of interacting with this text because of generative AI.
+
+137
+00:10:09,000 --> 00:10:14,000
+A really simple example is that she can just resize a paragraph to change its length.
+
+138
+00:10:14,000 --> 00:10:18,000
+She can also rapidly test different versions of this text.
+
+139
+00:10:18,000 --> 00:10:25,000
+For instance, in this paragraph, she's wondering whether it would be more effective if it took a more inspirational or more practical tone.
+
+140
+00:10:25,000 --> 00:10:30,000
+She selects one of these customizable dimensions,
+
+141
+00:10:30,000 --> 00:10:35,000
+and previews a few alternatives, and selects one.
+
+142
+00:10:35,000 --> 00:10:40,000
+And at select strategic points, indeed, she writes.
+
+143
+00:10:40,000 --> 00:10:49,000
+As she writes, she sees provocations that, rather than auto-completing her ideas, they raise alternatives.
+
+144
+00:10:49,000 --> 00:10:56,000
+They identify fallacies, they offer counter-arguments to help her string and then develop her own argument.
+
+145
+00:10:56,000 --> 00:11:00,000
+There's something you won't find anywhere in this interface.
+
+146
+00:11:00,000 --> 00:11:01,000
+That's a chat box.
+
+147
+00:11:01,000 --> 00:11:10,000
+Clara's not having to chat with anything to do her work, yet she is silently and appropriately assisted by her computer as a computer,
+
+148
+00:11:10,000 --> 00:11:12,000
+and not as an ersatz human.
+
+149
+00:11:12,000 --> 00:11:21,000
+To put it simply, we have gone from this to this.
+
+150
+00:11:21,000 --> 00:11:28,000
+Throughout this process, Clara has been assisted, and yes, probably worked faster because of AI.
+
+151
+00:11:28,000 --> 00:11:32,000
+But she's also maintained direct material engagement at strategic points.
+
+152
+00:11:32,000 --> 00:11:38,000
+She read the relevant portions of the document herself. She constructed her decisions on her argument herself.
+
+153
+00:11:38,000 --> 00:11:41,000
+And ultimately, it can be said she has written this document herself.
+
+154
+00:11:41,000 --> 00:11:44,000
+Moreover, she worked better because of AI.
+
+155
+00:11:44,000 --> 00:11:55,000
+AI provocations at every stage of the process kept her metacognitively engaged, always looking for critiques, alternatives, and lateral moves.
+
+156
+00:11:55,000 --> 00:12:01,000
+We have been studying the effects of tools like this, and the results are promising.
+
+157
+00:12:01,000 --> 00:12:06,000
+You can demonstrably reintroduce critical thinking into AI-assisted workflow.
+
+158
+00:12:06,000 --> 00:12:11,000
+You can reverse the loss of creativity and enhance it instead.
+
+159
+00:12:11,000 --> 00:12:20,000
+You can build powerful tools for memory that enable knowledge workers to read and write at speed with greater intentionality and remember it too.
+
+160
+00:12:20,000 --> 00:12:27,000
+It turns out, with the right principles of design, you can build tools that are the best of both worlds,
+
+161
+00:12:27,000 --> 00:12:33,000
+applying the awesome speed and flexibility of this technology to protect and enhance human thought.
+
+162
+00:12:33,000 --> 00:12:41,000
+These are simple, general principles, like ensuring that the tool preserves material engagement,
+
+163
+00:12:41,000 --> 00:12:45,000
+offers productive resistance and scaffolds metacognition.
+
+164
+00:12:45,000 --> 00:12:53,000
+And while we've been primarily studying professional knowledge workers, we believe that these principles can extend to all aspects of AI use,
+
+165
+00:12:53,000 --> 00:12:59,000
+including when we use it in our daily lives, our hobbies, and even in education.
+
+166
+00:12:59,000 --> 00:13:03,000
+I repeat, efficiency is not the aim of tools for thought.
+
+167
+00:13:03,000 --> 00:13:08,000
+Better thinking is, but sometimes you can't have both.
+
+168
+00:13:08,000 --> 00:13:12,000
+I used to think there was no such thing as a free lunch in human thinking.
+
+169
+00:13:12,000 --> 00:13:17,000
+This is so much better than a free lunch. This is a lunch that pays you to eat it.
+
+170
+00:13:17,000 --> 00:13:25,000
+I want to close with some thoughts on the values that we have in developing AI software.
+
+171
+00:13:25,000 --> 00:13:30,000
+What if AI gets to the point where it can do a better job of thinking than humans?
+
+172
+00:13:30,000 --> 00:13:35,000
+Why should we care so much about protecting and augmenting human thought?
+
+173
+00:13:35,000 --> 00:13:41,000
+There's two reasons. First, there may always be ways of thinking that remain unique human strengths,
+
+174
+00:13:41,000 --> 00:13:44,000
+of which we may not even be aware.
+
+175
+00:13:44,000 --> 00:13:54,000
+Second, perhaps more importantly, we take the position that the ability to think well is essential for human agency and empowerment and flourishing.
+
+176
+00:13:54,000 --> 00:13:57,000
+This echoes an ancient question.
+
+177
+00:13:57,000 --> 00:14:05,000
+People once asked, you know, if writing, if books, if the internet can remember for us, does it matter that we cannot?
+
+178
+00:14:05,000 --> 00:14:10,000
+People once asked if maps can navigate for us, does it matter that we cannot?
+
+179
+00:14:10,000 --> 00:14:16,000
+Now we ask, if machines can think for us, does it matter that we cannot?
+
+180
+00:14:16,000 --> 00:14:26,000
+If machines can speak for us, grieve for us, pray for us, love for us, does it matter that we cannot?
+
+181
+00:14:26,000 --> 00:14:29,000
+To me, the answer is pretty obvious.
+
+182
+00:14:29,000 --> 00:14:37,000
+When I began studying human AI interaction 13 years ago, it was inconceivable to me that we would be asking these questions in my lifetime,
+
+183
+00:14:37,000 --> 00:14:40,000
+but we are and we must.
+
+184
+00:14:40,000 --> 00:14:43,000
+I'll leave you with this thought.
+
+185
+00:14:45,000 --> 00:14:47,000
+What would you rather have?
+
+186
+00:14:47,000 --> 00:14:51,000
+A tool that thinks for you or a tool that makes you think?
+

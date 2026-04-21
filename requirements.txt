@@ -1,0 +1,32 @@
+# ============================================================
+# Subtitle Generator & Summarizer Pipeline — Requirements
+# ============================================================
+
+# --- Audio extraction ---
+ffmpeg-python>=0.2.0
+moviepy>=1.0.3
+# NOTE: pydub removed — requires `audioop` which was deleted in Python 3.13+.
+# moviepy + ffmpeg-python provide equivalent audio-extraction capabilities.
+
+# --- Transcription (OpenAI Whisper) ---
+openai-whisper>=20231117
+
+# --- Deep-learning backend (PyTorch — CPU-only by default) ---
+# For GPU support, replace with the matching CUDA wheel from
+#   https://pytorch.org/get-started/locally/
+# Example (CUDA 12.1):
+#   --extra-index-url https://download.pytorch.org/whl/cu121
+#   torch>=2.1.0+cu121
+torch>=2.1.0
+
+# --- Summarisation ---
+transformers>=4.36.0
+sentencepiece>=0.1.99          # needed by some T5 tokenizers
+
+# --- Evaluation ---
+jiwer>=3.0.3                   # Word Error Rate
+rouge-score>=0.1.2             # ROUGE-1 / ROUGE-2 / ROUGE-L
+
+# --- Notebook support ---
+jupyter>=1.0.0
+ipython>=8.0.0
