@@ -133,6 +133,9 @@ def chunk_transcript(text: str, max_words: int = 200) -> list[str]:
     list[str]
         List of text chunks.
     """
+    if not text or not text.strip():
+        raise ValueError("Empty transcript passed to chunk_transcript")
+
     import nltk
     
     # Ensure the required punkt tokeniser data is available
